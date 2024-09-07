@@ -1,0 +1,18 @@
+125 = 90 * t+ 80 * t
+125 = 170 * t
+t = 125 / 170
+t ≈ 0.735
+
+atraso = 3 * 5 = 15 = 0.25/h
+
+dstCarro = 90 * 0.735 + 0.25
+dstCarro = 90 * 0.985
+dstCarro = 88.65
+
+dstCaminhao = 80 * 0.735
+dstCaminhao = 58.80
+
+125 - 88.65 = 36.35
+125 - 58.80 = 66.20
+
+R: O carro estará mais próximo de Ribeirão Preto
